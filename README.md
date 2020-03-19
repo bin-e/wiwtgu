@@ -1,5 +1,6 @@
 # wiwtgu
 > Where to come back when i want to give up
+> 포기하고 싶을 때, 돌아올 곳
 
 ## already give-up?
 1. "해야 한다"는 생각은 누구나 한다.

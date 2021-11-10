@@ -1,5 +1,5 @@
 # wiwtgu
-> Where to come back when i want to give up
+> Come back here, when i want to give up.
 > 
 > 포기하고 싶을 때, 돌아올 곳
 
